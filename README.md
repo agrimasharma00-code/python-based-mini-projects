@@ -1,3 +1,3 @@
-# First-Mini-Project-
+# BANK-MANAGEMENT-SYSTEM-
 
-This is my First Git Repository.. (Using Python OOPs .)
+A Python-based Bank Management System built using OOPs and file handling to perform basic banking operations.
