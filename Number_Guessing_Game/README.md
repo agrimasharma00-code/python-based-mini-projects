@@ -10,5 +10,4 @@ In this game:
 - The user tries to guess the number.
 - The program gives hints like **Too High** or **Too Low**.
 - The game continues until the correct number is guessed.
-- 
 This project is beginner-friendly and helps in understanding logical thinking using Python.
